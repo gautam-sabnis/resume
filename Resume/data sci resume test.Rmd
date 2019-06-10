@@ -1,0 +1,322 @@
+---
+title: "Gautam Sabnis"
+author: Gautam Sabnis
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+
+![](/Users/Purfvfet/Desktop/Gautam_Sabnis.jpg){width=80%}
+
+Postdoctoral Researcher. On the market for data science positions.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> gautamsabnis15@gmail.com
+- <i class="fa fa-phone"></i> +1 850-320-4704
+
+
+Links  {#links}
+--------------------------------------------------------------------------------
+<i class="fa fa-home"></i> [gautam-sabnis.github.io](gautam-sabnis.github.io)
+
+<i class="fa fa-linkedin"></i>
+[linkedin.com/in/gautam-sabnis/](linkedin.com/in/gautam-sabnis/)
+
+<i class="fa fa-github"></i>
+[github.com/gautam-sabnis](github.com/gautam-sabnis)
+
+
+
+
+Technical Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Programming**: R, Matlab, Python
+
+- **Documentation**: LaTeX, Markdown
+
+- **Version control**: Git
+
+- **Cluster Computing**
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+Last updated on `r Sys.Date()`.
+
+-->
+
+
+
+
+
+
+Main
+================================================================================
+
+Gautam Sabnis {#title}
+--------------------------------------------------------------------------------
+
+### Uncertainty quantification, dimension reduction, variable selection, teaching
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Florida State University
+
+PhD in Statistics, GPA: 3.99/4
+
+Tallahassee, FL
+
+2012--2017
+
+<!-- Dissertation: Indirect and Interactive Impacts of Climate Change on Tea (*Camellia sinensis*) Metabolites and Quality. -->
+
+### University of Pune
+
+MSc in Statistics
+
+Pune, India
+
+2009--2011
+
+
+<!-- Thesis: Interactions between habitat and ungulate herbivory limit the spread of *Ipomopsis aggregata* (polemoniaceae) -->
+
+
+### St. Xavier's College
+
+BSc in Statistics
+
+Mumbai, India
+
+2006--2009
+
+<!-- Thesis: Behavioral Evidence for Host-Race Formation in the Gall-Midge *Dasineura folliculi* (Felt) -->
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Postdoctoral Research Associate
+
+Boston University
+
+Boston, MA
+
+2018/07--Present
+
+- Developed the first semi-parametric quasi-Bayesian method for variable selection in high-dimensional instrumental variable linear models
+- Implemented an efficient Markov Chain Monte Carlo sampler to sample from the quasi-posterior distribution
+- Applied the method to calculate earnings of individuals in presence of endogenous variables from U.S census data
+
+### Postdoctoral Research Fellow
+
+University of Michigan
+
+Ann Arbor, MI
+
+2017/08--2018/06
+
+
+- Explored a Bayesian logistic regression model for analyzing placement data on nearly 19,000 faculty in three disciplines
+- Designed a Metropolis-Hastings-within-Gibbs-sampler for making inferences on the placements network model in R 
+- Implemented a divide-and-conquer approach to studying interactions in a high-dimensional thyroid gene expression data set in Matlab
+- Published a paper on compressed covariance matrix estimation with automated dimension learning for covariance structures arising via factor and PCA-type models
+
+
+### SAMSI Industrial Mathematics & Statistical Modeling Workshop 
+
+North Carolina State University
+
+Raleigh, NC
+
+07/18/2016--07/27/2016
+
+- Collaborated with *Environmental Protection Agency (EPA)* and *National Oceanic & Atmospheric Administration (NOAA)* in a 10-member interdisciplinary team project 
+- Worked with large data sets obtained from satellites and ground sites to explore the impact of international transport of air pollution on coastal areas of the U.S.
+- Fit generalized additive model for predicting $\text{PM}_{2.5}$ levels from satellite measurements in presence of other variables 
+
+
+Selected Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+### Basic Statistics & Probability  
+
+Boston University
+
+Boston, MA
+
+Spring 2019
+
+
+- Taught a class of 98 students many topics including probability, confidence intervals and hypothesis testing using JMP 
+
+
+::: aside
+
+### Skills, Interests and Hobbies
+![](/Users/Purfvfet/Desktop/karate.png){width=40%}
+
+- Karate: 6+ years training
+- Brown Belt
+
+
+![](/Users/Purfvfet/Desktop/tabla.png){width=40%}
+
+- Tabla: 3+ years training
+- Cleared 3 theory and practical exams. 
+
+![](/Users/Purfvfet/Desktop/soccer.png){width=40%}
+
+- Soccer: Regular starter on team for intramural soccer at Florida State University. 
+
+![](/Users/Purfvfet/Desktop/chess.png){width=40%}
+
+- Playing chess. 
+:::
+
+
+
+### Computational Methods using R
+
+University of Michigan
+
+Ann Arbor, MI
+
+Winter 2018
+
+- Taught upper division course on computational methods in R & RStudio covering Monte Carlo methods for sampling, integration & optimization, Bootstrap, EM algorithm, Markov Chain Monte Carlo methods 
+
+
+### Introduction to Mathematical Statistics
+Florida State University
+
+Tallahassee, FL
+
+Spring 2017
+
+- Taught upper division course on mathematical statistics including probability, conditional probability, random variables, jointly distributed random variables. 
+
+
+
+
+
+<!---### Applied Machine Learning
+Florida State University
+
+Tallahassee, FL
+
+Fall 2016
+
+- Assited the main instructor by supervising students on homeworks in **R** and **Python**. --->
+
+
+
+
+Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+
+
+
+### Yongyuan and Anna Li Award 
+
+Department of Statistics, Florida State University
+
+Tallahassee, FL
+
+2018
+
+
+- First place winning talk for the graduate student symposium
+
+
+
+### Student Poster Award 
+
+Mayo Clinic 
+
+Jacksonville, FL 
+
+2017
+
+### Student Paper Award Winner at Biostatistics Workshop
+
+Department of Biostatistics, University of Florida 
+
+Gainesville, FL
+
+2017
+
+### Best First Year Student in Computational Statistics
+
+Department of Statistics, Florida State University
+
+Tallahassee, FL
+
+2013
+
+
+
+
+
+
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### Bayesian Variable Selection in Linear Regression Models with Instrumental Variables
+Contributed talk at 33rd New England Statistics Symposium
+
+Hartford, CT
+
+May 2019
+
+<!---### A Divide and Conquer Strategy for High-Dimensional Bayesian Factor Models
+Invited talk at IISA International Conference on Statistics
+
+Gainesville, FL
+
+May 2018 --->
+
+
+
+
+<!---### Compressed Covariance Estimation with Automated Dimension Learning
+Short listed for Student Paper Competition at IISA Internation Conference on Statistics
+
+Corvallis, OR
+
+February 2017--->
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+::: aside
+**Languages**: English, Hindi, Marathi 
+:::
+### Compressed Covariance Estimation with Automated Dimension Learning
+
+**Sabnis, G.**, Pati, D., Bhattacharya, A. (*Sankhya Series A*, <i class="fa fa-"></i>[doi:10.1007/s13171-018-0134-x](link.springer.com/article/10.1007/s13171-018-0134-x))
+
+Ann Arbor, MI
+
+2018 
+
+
+
+
+
+
